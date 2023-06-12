@@ -3,11 +3,11 @@
 I am a dedicated software engineer with a passion for crafting efficient and innovative solutions. Throughout my career, I have demonstrated a strong commitment to delivering high-quality software products that meet the needs of businesses and users.
 
 ### 🚀 Here are some of the key skills that define my expertise:
-- C#, ASP.NET Core Web API
-- Entity Framework / EF Core
-- JavaScript, TypeScript
-- Angular Framework, Angular Material / PrimeNG Libraries
-- SQL, Microsoft SQL Server, MySQL
+- C#, ASP.NET Core Web API, Entity Framework / EF Core
+- JavaScript & TypeScript, Angular, Angular Material & PrimeNG Libraries
+- SQL, Microsoft SQL Server, MySQL, Oracle SQL
+- Php, Php Laravel Web API
+- Project Management, Agile, Waterfall & Kanban Methodologies
 
 Let's work together to bring your ideas to life! Whether you have a challenging problem to solve or an exciting project in mind, I'm ready to dive in and code. Please feel free to contact me to discuss your requirements or to explore potential collaborations.
 
