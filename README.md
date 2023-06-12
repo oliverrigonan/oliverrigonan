@@ -1,4 +1,4 @@
-# Hi, I'm Noah 👋
+# Hi, I'm Noah 👋🏻
 
 I am a dedicated software engineer with a passion for crafting efficient and innovative solutions. Throughout my career, I have demonstrated a strong commitment to delivering high-quality software products that meet the needs of businesses and users.
 
