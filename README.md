@@ -159,7 +159,7 @@ I am a dedicated software engineer with a passion for crafting efficient and inn
 - Php, Php Laravel Web API
 - Project Management, Agile, Waterfall & Kanban Methodologies
 
-### ⭐ About Some Stats:
+### ⭐ Stats:
 <div>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliverrigonan&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=oliverrigonan&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
