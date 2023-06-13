@@ -130,6 +130,12 @@ I am a dedicated software engineer with a passion for crafting efficient and inn
   </tr>
 </table>
 
+- C#, ASP.NET Core Web API, Entity Framework / EF Core
+- JavaScript & TypeScript, Angular, Angular Material & PrimeNG Libraries
+- SQL, Microsoft SQL Server, MySQL, Oracle SQL
+- Php, Php Laravel Web API
+- Project Management, Agile, Waterfall & Kanban Methodologies
+
 ### ⭐ About Some Stats:
 <div>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliverrigonan&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
