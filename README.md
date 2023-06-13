@@ -161,11 +161,11 @@ I am a dedicated software engineer with a passion for crafting efficient and inn
 
 ### ⭐ Stats:
 <div>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliverrigonan&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=oliverrigonan&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
+<img height="175m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliverrigonan&layout=compact&show_icon=true&theme=algolia" alt="noah-langs"/>
+<img height="175m" src="https://github-readme-stats.vercel.app/api/?username=oliverrigonan&layout=compact&show_icon=true&rank_icon=github&theme=algolia" alt="noah-stats"/>
 </div>
 <div>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=oliverrigonan&theme=algolia&background=0d1117&hide_border=true" />
+  <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=oliverrigonan&theme=algolia&background=0d1117&hide_border=true" />
 </div>
 
 <div>
