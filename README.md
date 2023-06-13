@@ -63,6 +63,8 @@ I am a dedicated software engineer with a passion for crafting efficient and inn
             <br>Prime
         </td>
     </tr>
+</table>
+<table>
     <tr>
         <td align="center" style="padding: 10px 5px 5px 5px;">
             <a href="#C#">
@@ -100,6 +102,8 @@ I am a dedicated software engineer with a passion for crafting efficient and inn
             <br>SQLServer
         </td>
     </tr>
+</table>
+<table>
     <tr>
         <td align="center" style="padding: 10px 5px 5px 5px;">
             <a href="#php">
@@ -123,6 +127,8 @@ I am a dedicated software engineer with a passion for crafting efficient and inn
             <br>MySQL
         </td>
     </tr>
+</table>
+<table>
     <tr>
         <td align="center" style="padding: 10px 5px 5px 5px;" width="96">
             <a href="#vscode">
