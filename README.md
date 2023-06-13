@@ -5,129 +5,146 @@ I am a dedicated software engineer with a passion for crafting efficient and inn
 
 ### 🚀 Here are some of the key skills that define my expertise:
 <table>
-  <tr>
-      <td align="center" width="120">
-      <a href="#html5">
-        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" height="50" alt="Html5" />
-      </a>
-      <br>Html5
-    </td>
-    <td align="center" width="120">
-      <a href="#css3">
-        <img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" height="50" alt="Css3" />
-      </a>
-      <br>CSS3
-    </td>
-     <td align="center" width="120">
-      <a href="#bootstrap">
-        <img src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png"  height="50" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-     <td align="center" width="120">
-      <a href="#js">
-        <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png"  height="50" alt="javascript" />
-      </a>
-      <br>Javascript
-    </td>
-     <td align="center" width="120">
-      <a href="#js">
-        <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png"  height="50" alt="javascript" />
-      </a>
-      <br>Typescript
-    </td>
-     <td align="center" width="120">
-      <a href="#angular">
-        <img src="https://seeklogo.com/images/A/angular-logo-B76B1CDE98-seeklogo.com.png" height="50" alt="Angular" />
-      </a>
-      <br>Angular
-    </td>
-     <td align="center" width="120">
-      <a href="#angular-material">
-        <img src="https://material.angular.io/assets/img/angular-material-logo.svg"  height="50" alt="Angular Material" />
-      </a>
-      <br>Material
-    </td>
-    <td align="center" width="120">
-      <a href="#prime">
-        <img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2018/05/primeng-logo.png?ssl=1" height="50" alt="Angular Material" />
-      </a>
-      <br>Prime
-    </td>
-  </tr>
-
-  <tr>
-      <td align="center" width="120">
-      <a href="#C#">
-        <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" height="50" alt="C#" />
-      </a>
-      <br>C#
-    </td>
-      <td align="center" width="120">
-      <a href="#dotNET">
-        <img src="https://seeklogo.com/images/M/microsoft-net-framework-logo-B9BA1A3DA1-seeklogo.com.png" height="50" alt=".NET Framework" />
-      </a>
-      <br>.NET
-    </td>
-      <td align="center" width="120">
-      <a href="#netcore">
-        <img src="https://seeklogo.com/images/1/net-core-logo-E82CE4F701-seeklogo.com.png" height="50" alt=".NET Core" />
-      </a>
-      <br>.NET Core
-    </td>
-     <td align="center" width="120">
-      <a href="#ASPNET">
-        <img src="https://www.w2solution.co.jp/wp-content/uploads/2023/01/asp.net_.logo_-e1674006912485.png" height="50" alt="ASP.NET" />
-      </a>
-      <br>ASP.NET
-    </td>
-    <td align="center" width="120">
-      <a href="#MSSQLServer">
-        <img src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" height="50" alt="MSSQL Server" />
-      </a>
-      <br>SQLServer
-    </td>
-  </tr>
-  <tr>
-      <td align="center" width="120">
-      <a href="#php">
-        <img src="https://seeklogo.com/images/P/PHP-logo-0B2FDC4529-seeklogo.com.png" height="50" alt="Php" />
-      </a>
-      <br>Php
-    </td>
-      <td align="center" width="120">
-      <a href="#laravel">
-        <img src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png" height="50" alt="Laravel" />
-      </a>
-      <br>Laravel
-    </td>
-      <td align="center" width="120">
-      <a href="#mysql">
-        <img src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png" height="50" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-  </tr>
-   <tr>
-      <td align="center"  width="96">
-      <a href="#vscode">
-        <img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png"  height="50" alt="Jamstack" />
-      </a>
-      <br>VS Code
-    </td>
-      <td align="center"  width="96">
-      <a href="#vscode">
-        <img src="https://seeklogo.com/images/V/visual-studio-logo-14F95CF819-seeklogo.com.png"  height="50" alt="Jamstack" />
-      </a>
-      <br>Visual Studio
-    </td>
-      <td align="center" width="96">
-      <a href="#postman" >
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50" alt="Git" />
-      </a>
-      <br>Postman
-    </td>
-  </tr>
+    <tr>
+        <td align="center" style="padding: 10px 5px 5px 5px;">
+            <a href="#html5">
+                <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png"
+                    height="50" alt="Html5" />
+            </a>
+            <br>Html5
+        </td>
+        <td align="center" style="padding: 10px 5px 5px 5px;">
+            <a href="#css3">
+                <img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" height="50"
+                    alt="Css3" />
+            </a>
+            <br>CSS3
+        </td>
+        <td align="center" style="padding: 10px 5px 5px 5px;">
+            <a href="#bootstrap">
+                <img src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" height="50"
+                    alt="Bootstrap" />
+            </a>
+            <br>Bootstrap
+        </td>
+        <td align="center" style="padding: 10px 5px 5px 5px;">
+            <a href="#js">
+                <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" height="50"
+                    alt="javascript" />
+            </a>
+            <br>Javascript
+        </td>
+        <td align="center" style="padding: 10px 5px 5px 5px;">
+            <a href="#js">
+                <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" height="50"
+                    alt="javascript" />
+            </a>
+            <br>Typescript
+        </td>
+        <td align="center" style="padding: 10px 5px 5px 5px;">
+            <a href="#angular">
+                <img src="https://seeklogo.com/images/A/angular-logo-B76B1CDE98-seeklogo.com.png" height="50"
+                    alt="Angular" />
+            </a>
+            <br>Angular
+        </td>
+        <td align="center" style="padding: 10px 5px 5px 5px;">
+            <a href="#angular-material">
+                <img src="https://material.angular.io/assets/img/angular-material-logo.svg" height="50"
+                    alt="Angular Material" />
+            </a>
+            <br>Material
+        </td>
+        <td align="center" style="padding: 10px 5px 5px 5px;">
+            <a href="#prime">
+                <img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2018/05/primeng-logo.png?ssl=1"
+                    height="50" alt="Angular Material" />
+            </a>
+            <br>Prime
+        </td>
+    </tr>
+    <tr>
+        <td align="center" style="padding: 10px 5px 5px 5px;">
+            <a href="#C#">
+                <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" height="50"
+                    alt="C#" />
+            </a>
+            <br>C#
+        </td>
+        <td align="center" style="padding: 10px 5px 5px 5px;">
+            <a href="#dotNET">
+                <img src="https://seeklogo.com/images/M/microsoft-net-framework-logo-B9BA1A3DA1-seeklogo.com.png"
+                    height="50" alt=".NET Framework" />
+            </a>
+            <br>.NET
+        </td>
+        <td align="center" style="padding: 10px 5px 5px 5px;">
+            <a href="#netcore">
+                <img src="https://seeklogo.com/images/1/net-core-logo-E82CE4F701-seeklogo.com.png" height="50"
+                    alt=".NET Core" />
+            </a>
+            <br>.NET Core
+        </td>
+        <td align="center" style="padding: 10px 5px 5px 5px;">
+            <a href="#ASPNET">
+                <img src="https://www.w2solution.co.jp/wp-content/uploads/2023/01/asp.net_.logo_-e1674006912485.png"
+                    height="50" alt="ASP.NET" />
+            </a>
+            <br>ASP.NET
+        </td>
+        <td align="center" style="padding: 10px 5px 5px 5px;">
+            <a href="#MSSQLServer">
+                <img src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png"
+                    height="50" alt="MSSQL Server" />
+            </a>
+            <br>SQLServer
+        </td>
+    </tr>
+    <tr>
+        <td align="center" style="padding: 10px 5px 5px 5px;">
+            <a href="#php">
+                <img src="https://seeklogo.com/images/P/PHP-logo-0B2FDC4529-seeklogo.com.png" height="50"
+                    alt="Php" />
+            </a>
+            <br>Php
+        </td>
+        <td align="center" style="padding: 10px 5px 5px 5px;">
+            <a href="#laravel">
+                <img src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png" height="50"
+                    alt="Laravel" />
+            </a>
+            <br>Laravel
+        </td>
+        <td align="center" style="padding: 10px 5px 5px 5px;">
+            <a href="#mysql">
+                <img src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png" height="50"
+                    alt="MySQL" />
+            </a>
+            <br>MySQL
+        </td>
+    </tr>
+    <tr>
+        <td align="center" style="padding: 10px 5px 5px 5px;" width="96">
+            <a href="#vscode">
+                <img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png"
+                    height="50" alt="Jamstack" />
+            </a>
+            <br>VS Code
+        </td>
+        <td align="center" style="padding: 10px 5px 5px 5px;" width="96">
+            <a href="#vscode">
+                <img src="https://seeklogo.com/images/V/visual-studio-logo-14F95CF819-seeklogo.com.png" height="50"
+                    alt="Jamstack" />
+            </a>
+            <br>Visual Studio
+        </td>
+        <td align="center" style="padding: 10px 5px 5px 5px;" width="96">
+            <a href="#postman">
+                <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50" alt="Git" />
+            </a>
+            <br>Postman
+        </td>
+    </tr>
 </table>
 
 - C#, ASP.NET Core Web API, Entity Framework / EF Core
