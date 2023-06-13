@@ -14,36 +14,54 @@ I am a dedicated software engineer with a passion for crafting efficient and inn
     </td>
     <td align="center" width="96">
       <a href="#css3">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="Css3" />
+        <img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" width="48" height="48" alt="Css3" />
       </a>
       <br>CSS3
     </td>
      <td align="center" width="96">
       <a href="#bootstrap">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
      <td align="center" width="96">
       <a href="#js">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
+        <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="48" height="48" alt="javascript" />
       </a>
       <br>Javascript
     </td>
      <td align="center" width="96">
       <a href="#angular">
-        <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" width="48" height="48" alt="Angular" />
+        <img src="https://seeklogo.com/images/A/angular-logo-B76B1CDE98-seeklogo.com.png" width="48" height="48" alt="Angular" />
       </a>
       <br>Angular
+    </td>
+     <td align="center" width="96">
+      <a href="#angular-material">
+        <img src="https://material.angular.io/assets/img/angular-material-logo.svg" width="48" height="48" alt="Angular Material" />
+      </a>
+      <br>Material
+    </td>
+    <td align="center" width="156">
+      <a href="#angular-material">
+        <img src="https://www.primefaces.org/wp-content/uploads/2018/05/primetek_logo.png" height="48" alt="Angular Material" />
+      </a>
+      <br>Prime
     </td>
   </tr>
 
   <tr>
       <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="48" height="48" alt="Laravel" />
+      <a href="#C#">
+        <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="48" height="48" alt="C#" />
       </a>
-      <br>Laravel
+      <br>C#
+    </td>
+      <td align="center" width="96">
+      <a href="#laravel">
+        <img src="https://seeklogo.com/images/M/microsoft-net-framework-logo-B9BA1A3DA1-seeklogo.com.png" width="48" height="48" alt="Laravel" />
+      </a>
+      <br>.NET
     </td>
       <td align="center" width="96">
       <a href="#laravel">
