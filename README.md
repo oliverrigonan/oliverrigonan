@@ -157,6 +157,7 @@ I am a dedicated software engineer with a passion for crafting efficient and inn
 - JavaScript & TypeScript, Angular, Angular Material & PrimeNG Libraries
 - SQL, Microsoft SQL Server, MySQL, Oracle SQL
 - Php, Php Laravel Web API
+- AWS, CI/CD GitHub Integration, Docker
 - Project Management, Agile, Waterfall & Kanban Methodologies
 
 ### ⭐ Stats:
