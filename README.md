@@ -130,6 +130,31 @@ I am a dedicated software engineer with a passion for crafting efficient and inn
 </table>
 <table>
     <tr>
+        <td align="center" style="padding: 10px 5px 5px 5px;">
+            <a href="#php">
+                <img src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" height="50"
+                    alt="Php" />
+            </a>
+            <br>AWS
+        </td>
+        <td align="center" style="padding: 10px 5px 5px 5px;">
+            <a href="#laravel">
+                <img src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png" height="50"
+                    alt="Laravel" />
+            </a>
+            <br>GitHub
+        </td>
+        <td align="center" style="padding: 10px 5px 5px 5px;">
+            <a href="#mysql">
+                <img src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png" height="50"
+                    alt="MySQL" />
+            </a>
+            <br>Docker
+        </td>
+    </tr>
+</table>
+<table>
+    <tr>
         <td align="center" style="padding: 10px 5px 5px 5px;" width="96">
             <a href="#vscode">
                 <img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png"
