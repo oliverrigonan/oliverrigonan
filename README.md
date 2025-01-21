@@ -2,13 +2,17 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/tienhuynh-tn?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/tienhuynh-tn?style=social"> &nbsp;&nbsp; <img alt="TienHuynh-TN | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
 
 # <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="35px"></img> Hi, I'm Noah
-I am a dedicated software engineer passionate about building efficient and innovative solutions. I focus on delivering reliable software products that address the needs of businesses and users.
+As a Senior Software Engineer and Full Stack Developer, I focus on creating solutions that solve complex problems and drive innovation. My work spans AI, blockchain, web development, and DevOps, allowing me to develop scalable systems that help businesses thrive in a rapidly evolving digital world.
 
-As a Senior Software Engineer and Full Stack Developer, I work on developing scalable solutions that integrate Large Language Models (LLMs) like ChatGPT and local models such as Llama 3. My role involves designing prompts, implementing features, and creating practical applications to streamline business processes and improve operations.
+In AI, I work with large language models (LLMs) to build intelligent applications that improve user interactions and optimize business processes. This includes developing AI-driven chatbots, agents, and custom applications, leveraging techniques like Retrieval-Augmented Generation (RAG) for context-sensitive results. I also integrate OpenAI models for tasks such as text generation, translation, transcription, and summarization, creating systems that enhance engagement and efficiency. Additionally, I enable live conversation capabilities using OpenAI’s Realtime API, further improving the interactive experience for users.
 
-Currently, I am working on integrating and localizing LLMs using tools like LangChain, FastAPI, and MongoDB to create effective and dependable systems. I also focus on enhancing conversational AI applications to improve user interaction.
+In blockchain, I have contributed to building secure, decentralized applications, including work on Xode, a blockchain built on Kusama. My focus is on developing scalable solutions with a strong emphasis on interoperability and cross-chain communication, enabling businesses to seamlessly integrate blockchain technologies into their operations and the broader Web3 ecosystem.
 
-In addition to development, I have experience in DevOps, managing CI/CD pipelines, Docker, and automated deployments via GitHub to support smooth and efficient workflows.
+In web development, I design and build full-stack applications, ensuring smooth interaction between front-end interfaces and back-end systems. I focus on creating user-friendly, high-performance solutions that are scalable and adaptable to business needs.
+
+In DevOps, I work to optimize development and deployment workflows, using tools like Docker for containerization to ensure consistency and scalability across different environments. I also implement CI/CD pipelines to automate processes and ensure efficient, reliable application delivery.
+
+I’m always open to connecting with others who are passionate about technology and innovation. Let’s collaborate to build impactful solutions that shape the future.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Bzfet42U) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/noaholiverrigonan/) 
