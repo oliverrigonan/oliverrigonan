@@ -2,15 +2,9 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/tienhuynh-tn?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/tienhuynh-tn?style=social"> &nbsp;&nbsp; <img alt="TienHuynh-TN | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
 
 # <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="35px"></img> Hi, I'm Noah
-As a Senior Software Engineer and Full Stack Developer, I focus on creating solutions that solve complex problems and drive innovation. My work spans AI, blockchain, web development, and DevOps, allowing me to develop scalable systems that help businesses thrive in a rapidly evolving digital world.
+As a Senior Software Engineer and Full Stack Developer, I specialize in blockchain development with Rust as my primary programming language. I build custom pallets using the Substrate framework, integrate the Polkadot SDK, and develop Ink! smart contracts for the Xode blockchain. I also create on-chain programs for Solana, leveraging Rust’s performance and safety to deliver robust and scalable solutions.
 
-In AI, I work with large language models (LLMs) to build intelligent applications that improve user interactions and optimize business processes. This includes developing AI-driven chatbots, agents, and custom applications, leveraging techniques like Retrieval-Augmented Generation (RAG) for context-sensitive results. I also integrate OpenAI models for tasks such as text generation, translation, transcription, and summarization, creating systems that enhance engagement and efficiency. Additionally, I enable live conversation capabilities using OpenAI’s Realtime API, further improving the interactive experience for users.
-
-In blockchain, I have contributed to building secure, decentralized applications, including work on Xode, a blockchain built on Kusama. My focus is on developing scalable solutions with a strong emphasis on interoperability and cross-chain communication, enabling businesses to seamlessly integrate blockchain technologies into their operations and the broader Web3 ecosystem.
-
-In web development, I design and build full-stack applications, ensuring smooth interaction between front-end interfaces and back-end systems. I focus on creating user-friendly, high-performance solutions that are scalable and adaptable to business needs.
-
-In DevOps, I work to optimize development and deployment workflows, using tools like Docker for containerization to ensure consistency and scalability across different environments. I also implement CI/CD pipelines to automate processes and ensure efficient, reliable application delivery.
+In addition to blockchain, I apply DevOps best practices—using Docker and CI/CD pipelines—to ensure consistent, secure, and efficient deployments.
 
 I’m always open to connecting with others who are passionate about technology and innovation. Let’s collaborate to build impactful solutions that shape the future.
 
