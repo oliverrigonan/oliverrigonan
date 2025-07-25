@@ -27,29 +27,28 @@ I’m always open to connecting with others who are passionate about technology 
 ![](https://github-contributor-stats.vercel.app/api?username=oliverrigonan&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 ---
-## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/oliverrigonan) 
+
+## 🤝 Let’s Connect and Build Something Awesome!
+
+<div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
+
+Let’s work together to bring your ideas to life! Whether you have a challenging problem to solve or an exciting project in mind, I’m ready to dive in and code. Feel free to reach out to discuss your requirements or explore potential collaborations.
 
 <br />
 
-<div>
-Let's work together to bring your ideas to life! Whether you have a challenging problem to solve or an exciting project in mind, I'm ready to dive in and code. Please feel free to contact me to discuss your requirements or to explore potential collaborations.
-</div>
-
-<br />
-
-## 🤝🏻 Let’s catch up! Reach me at:
 <p>
-  <a href="mailto:oliverrigonan@gmail.com" >
+  <a href="mailto:oliverrigonan@gmail.com">
     <img align="center" alt="Noah Oliver Rigonan | Gmail" width="35px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp; 
   <a href="https://www.linkedin.com/in/noaholiverrigonan" target="_blank">
-    <img align="center" alt="Noah Oliver Rigonan | Linkedin" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+    <img align="center" alt="Noah Oliver Rigonan | LinkedIn" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://profile-summary-for-github.herokuapp.com/user/oliverrigonan" target="_blank">
-    <img align="center" alt="TienHuynh-TN | GitHub" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-  </a> &nbsp;&nbsp;
-<p> 
+    <img align="center" alt="Noah Oliver Rigonan | GitHub" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  </a>
+</p>
+
+</div>
 
 <br />
 
