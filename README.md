@@ -2,9 +2,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/tienhuynh-tn?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/tienhuynh-tn?style=social"> &nbsp;&nbsp; <img alt="TienHuynh-TN | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
 
 # <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="35px"></img> Hi, I'm Noah
-As a Senior Software Engineer and Full Stack Developer, I specialize in blockchain development using Rust, designing custom pallets with the Substrate framework, integrating the Polkadot SDK, and implementing Ink! smart contracts tailored for the Xode Blockchain within the Polkadot ecosystem. Additionally, I develop on-chain programs for Solana, leveraging Rust’s performance and security to build scalable and resilient decentralized applications.
-
-Driven by a passion for advancing technology, I collaborate closely with cross-functional teams to deliver innovative solutions that propel the growth and evolution of blockchain ecosystems and decentralized technologies.
+I build reliable, scalable software from architecture to deployment, with a strong focus on quality, performance, and real-world usability. My experience spans full-stack development, AI-powered products, blockchain applications, and enterprise systems. I turn complex requirements into clean, production-ready solutions that solve business problems and deliver lasting value.
 
 ## 💻 Tech Stack:
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/) 
